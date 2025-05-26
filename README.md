@@ -2,6 +2,9 @@
 
 To repozytorium zawiera **22 praktyczne projekty konsolowe** prezentujące wykorzystanie biblioteki **Dapper** w aplikacjach .NET 9 (C#), od podstawowych zapytań po zaawansowane wzorce, serwisy i wielobazowe podejście.
 
+Użycie i cała reszta została opisana na blogu [Dapper w .NET 9 – Kompletny przewodnik z 21 przykładami aplikacji konsolowej w C#
+](https://www.kurso-center.pl/dapper-w-net-9-kompletny-przewodnik-z-21-przykladami-aplikacji-konsolowej-w-c/)
+
 ---
 
 ## 📦 Technologie
